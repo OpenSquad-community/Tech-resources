@@ -17,7 +17,7 @@ We welcome contributions to this repository! If you have a useful resource to sh
 
 ### General Learning Platforms
 - #### Command line 
-  1.Unix shell[https://swcarpentry.github.io/shell-novice/]
+  1.Unix shell  --> [https://swcarpentry.github.io/shell-novice/]
 
 
 ### Web Development
