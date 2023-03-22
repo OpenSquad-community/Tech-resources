@@ -12,3 +12,17 @@ We welcome contributions to this repository! If you have a useful resource to sh
 - Add your resource to the appropriate category in the README.md file
 - Submit a pull request
 - Please make sure your resource is relevant to technology and development learning, and provide a brief description of the resource and why you think it is useful.
+
+## Categories
+
+### General Learning Platforms
+
+---
+
+### Web Development
+
+- #### Fullstack web Development
+---
+### Data Science
+
+---
