@@ -16,13 +16,14 @@ We welcome contributions to this repository! If you have a useful resource to sh
 ## Categories
 
 ### General Learning Platforms
+- #### Command line 
+  1.Unix shell[https://swcarpentry.github.io/shell-novice/]
 
----
 
 ### Web Development
 
 - #### Fullstack web Development
----
+  1.Odin Project --> [https://www.theodinproject.com/paths]
+
 ### Data Science
 
----
