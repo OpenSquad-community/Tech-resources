@@ -25,6 +25,11 @@ We welcome contributions to this repository! If you have a useful resource to sh
 
 - #### Fullstack web Development
   1.Odin Project --> [https://www.theodinproject.com/paths]
+- #### Database
+- 1.Software carpentary --> [https://swcarpentry.github.io/sql-novice-survey/]
 
 ### Data Science
+
+- #### Python
+- 1.Programming with Python --> [https://swcarpentry.github.io/python-novice-inflammation/]
 
