@@ -1,7 +1,8 @@
 
 # Tech Learning Resources
 
-Welcome to the Tech Learning Resources repository! This is a community-driven repository where people can share useful resources related to learning and exploring technology and development.
+Introducing the Tech Learning Resources repository, a community-driven collection of useful resources related to learning and exploring technology and development. Whether you're looking to start coding, advance your skills in web development, or dive into data science or DevOps, this repository has something for everyone. We welcome contributions from anyone with a valuable resource to share, and aim to create a comprehensive and diverse collection of resources for learners at all levels. Explore our categories and start learning today!
+
 
 ## Contributing
 
@@ -24,6 +25,11 @@ We welcome contributions to this repository! If you have a useful resource to sh
 
 - #### Fullstack web Development
   1.Odin Project --> [https://www.theodinproject.com/paths]
+- #### Database
+- 1.Software carpentary --> [https://swcarpentry.github.io/sql-novice-survey/]
 
 ### Data Science
+
+- #### Python
+- 1.Programming with Python --> [https://swcarpentry.github.io/python-novice-inflammation/]
 
